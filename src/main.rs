@@ -1,6 +1,6 @@
 use std::io::{self, Write};
 
-const CAPACITY: usize = 3; // Set the desired capacity here
+const CAPACITY: usize = 5; // Set the desired capacity here
 
 fn main() {
     let mut todo_list: Vec<String> = Vec::new();
